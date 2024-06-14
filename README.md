@@ -1,4 +1,4 @@
-# bluetooth_poc
+# riverpod-practice
 
 A new Flutter project.
 
